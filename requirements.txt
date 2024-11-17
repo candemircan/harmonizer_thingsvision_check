@@ -1,0 +1,7 @@
+thingsvision==2.6.10
+git+https://github.com/ViCCo-Group/thingsvision.git@aac5fe061d0464d92ed8adbb45d3ab550cd251c0
+git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+git+https://github.com/serre-lab/Harmonization.git@ffe1c49dba425504a74b050cedc8382a423448f3
+keras-cv-attention-models==1.4.1
+numpy==1.21.6
+jupyter==1.1.1
